@@ -1,5 +1,5 @@
 ### My name is frostzzone!
-  - 😄 Pronouns: He/Hin
+  - 😄 Pronouns: He/Him
   - 💾 Html, Css, & "Scratch" Coder
   - 🤖 I make some discord bots
   - 📫 Discord [soon]<!--: [Discord](Link here)-->
