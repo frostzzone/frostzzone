@@ -15,7 +15,7 @@
 </a>
 
 <br><br>
-<a href="https://github.com/frostzzone/scratch-for-discorda">
+<a href="https://github.com/frostzzone/scratch-for-discord">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin?username=frostzzone&repo=scratch-for-discord&theme=dark&show_owner=true" alt="scratch-for-discord"/>
 </a>
   <a href="https://github.com/frostzzone/fnf-song-converter/tree/frostzzone-tweaks">
