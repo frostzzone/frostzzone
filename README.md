@@ -1,6 +1,6 @@
 ### My name is frostzzone!
   - 😄 Pronouns: He/Him
-  - 💾 Html, Css, & "Scratch" Coder
+  - 💾 Html, Css, Javascript, & "Scratch" Coder
   - 🤖 I make some discord bots
   - 📫 Discord [soon]<!--: [Discord](Link here)-->
   - 🔭 Workin' on stuff...
