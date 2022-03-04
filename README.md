@@ -1,9 +1,12 @@
 ### My name is frostzzone!
   - 😄 Pronouns: He/Him
-  - 💾 Html, Css, Javascript, & "Scratch" Coder
+  - 💾 Html, Css, Node.js, & "Scratch" Coder
   - 🤖 I make some discord bots
   - 📫 Discord [soon]<!--: [Discord](Link here)-->
   - 🔭 Workin' on stuff...
+  - 💬 Easiest way to contact me: 
+    - Discord: frostzzone#4486
+    - Scratch: [frostzzone](https://scratch.mit.edu/users/frostzzone/)
 
 
   <br>
@@ -18,11 +21,14 @@
 <a href="https://github.com/frostzzone/scratch-for-discord">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin?username=frostzzone&repo=scratch-for-discord&theme=dark&show_owner=true" alt="scratch-for-discord"/>
 </a>
-  <a href="https://github.com/frostzzone/fnf-song-converter/tree/frostzzone-tweaks">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin?username=frostzzone&repo=fnf-song-converter&theme=dark&show_owner=true" alt="fnf-song-converter"/>
+<a href="https://github.com/frostzzone/frost-bot">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin?username=frostzzone&repo=frost-bot&theme=dark&show_owner=true" alt="frost-bot"/>
 </a>
 <a href="https://github.com/frostzzone/xml-unpacker">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin?username=frostzzone&repo=xml-unpacker&theme=dark&show_owner=true" alt="xml-unpacker"/>
+</a>
+  <a href="https://github.com/frostzzone/fnf-song-converter/tree/frostzzone-tweaks">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin?username=frostzzone&repo=fnf-song-converter&theme=dark&show_owner=true" alt="fnf-song-converter"/>
 </a>
 
 
