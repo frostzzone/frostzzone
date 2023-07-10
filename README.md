@@ -5,7 +5,7 @@
   - 📫 Discord [soon]<!--: [Discord](Link here)-->
   - 🔭 Workin' on stuff...
   - 💬 Easiest way to contact me: 
-    - Discord: frostzzone#4486
+    - Discord: [@frostzzone](https://discord.com/users/712342308565024818)
     - Scratch: [frostzzone](https://scratch.mit.edu/users/frostzzone/)
 
 
