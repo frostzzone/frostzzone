@@ -2,7 +2,7 @@
   - 😄 Pronouns: He/Him
   - 💾 Html, Css, Node.js, & "Scratch" Coder
   - 🤖 I make some discord bots
-  - 📫 Discord [soon]<!--: [Discord](Link here)-->
+  - 📫 Discord: [Server](https://discord.gg/b8eTCEZjDT)
   - 🔭 Workin' on stuff...
   - 💬 Easiest way to contact me: 
     - Discord: [@frostzzone](https://discord.com/users/712342308565024818)
