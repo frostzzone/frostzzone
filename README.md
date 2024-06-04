@@ -1,13 +1,14 @@
 ### My name is frostzzone!
   - 😄 Pronouns: He/Him
-  - 💾 Html, Css, Node.js, & "Scratch" Coder
-  - 🤖 I make some discord bots
+  - 💾 Html, Css, javascript, python, haxe, lua & "Scratch" Coder
+  - 🤖 I make some discord bots and random projects
   - 📫 Discord: [Server](https://discord.gg/b8eTCEZjDT)
   - 🔭 Workin' on stuff...
   - 💬 Easiest way to contact me: 
     - Discord: [@frostzzone](https://discord.com/users/712342308565024818)
     - Scratch: [frostzzone](https://scratch.mit.edu/users/frostzzone/)
 
+I lorv open source
 
   <br>
 <a href="https://github.com/frostzzone">
